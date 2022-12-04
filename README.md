@@ -22,6 +22,12 @@ Javascript, HTML, CSS...
 
 ## Previews
 
+*Index Page
+![](asset/index.png)
+
 * Home Page
-![](asset/hompage.png)
+![](asset/homepage.png)
+
+* Movie Page
+![](asset/homepage.png)
 

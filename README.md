@@ -2,6 +2,8 @@
 
 ### View this web page at : https://i-movies-by-pratham.vercel.app/
 
+### Github Link : https://github.com/pratham1659/iMoviesByPratham
+
 ## 🛠 Skills 
 Javascript, HTML, CSS...
 

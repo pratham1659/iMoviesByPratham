@@ -1,0 +1,37 @@
+.movie-poster img {
+  max-width: 150px;
+  margin: 1 auto;
+  border: 4px solid #fff;
+}
+
+.favtitle {
+  color: #fff;
+  font-size: 30px;
+  font-weight: 600;
+  text-align: center;
+}
+
+.result-grid {
+  flex-wrap: nowrap;
+  /* justify-content: space-around; */
+  background-color: rgb(42, 40, 40);
+  padding: 10px;
+  border-radius: 10px;
+  position: relative;
+  margin-bottom: 10px;
+}
+
+.delete-btn {
+  font-size: 1.5rem;
+  border: none;
+  outline: none;
+  color: #fff;
+  padding: 10px 20px 10px 20px;
+  margin: 10px;
+  border-radius: 15%;
+  background-color: red;
+  position: absolute;
+  bottom: 1.5%;
+  right: 1.5%;
+  cursor: pointer;
+}

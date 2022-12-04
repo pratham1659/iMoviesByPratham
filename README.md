@@ -23,5 +23,5 @@ Javascript, HTML, CSS...
 ## Previews
 
 * Home Page
-![](img/hompage.png)
+![](asset/hompage.png)
 
